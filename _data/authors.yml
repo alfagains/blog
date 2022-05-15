@@ -1,0 +1,29 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Luiz:
+  name: Luiz
+  email: luiz@alfagains.com
+  picture: /images/bio-photo.jpg
+  links:
+    - title: GitHub
+      url: https://github.com/alfagains
+      icon: fab fa-github-square
+
+Rafael:
+  name: Rafael
+  email: rafael@alfagains.com
+  picture: /images/bio-photo-2.jpg
+  links:
+    - title: GitHub
+      url: https://github.com/alfagains
+      icon: fab fa-github-square
+
+Paulo:
+  name: Paulo
+  email: paulo@alfagains.com
+  picture: /images/bio-photo-2.jpg
+  links:
+    - title: GitHub
+      url: https://github.com/alfagains
+      icon: fab fa-github-square
